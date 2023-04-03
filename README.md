@@ -1,6 +1,6 @@
 # Diffie-Hellman Key Exchange for 4 Parties (Java)
 
-	The Diffie-Hellman key exchange is a cryptographic protocol that allows multiple parties to establish a shared secret key over an insecure channel. In this README file, we will explain how to implement a four-party Diffie-Hellman key exchange using Java.
+The Diffie-Hellman key exchange is a cryptographic protocol that allows multiple parties to establish a shared secret key over an insecure channel. In this README file, we will explain how to implement a four-party Diffie-Hellman key exchange using Java.
   
 Algorithm Overview
 
